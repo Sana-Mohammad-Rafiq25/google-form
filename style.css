@@ -1,0 +1,106 @@
+body {
+    height: 100vh;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+fieldset {
+    justify-content: center;
+    border-radius: 8px;
+    border-color: 1px solid rgb(192, 189, 189);
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+header>img {
+    padding: 2%;
+}
+
+header {
+    margin-left: 5px;
+    padding: 18px;
+}
+
+.main {
+    margin-left: 10px;
+    padding-bottom: 20%;
+}
+
+.main>a {
+    color: #6C6C6C;
+    font-size: large;
+}
+
+input {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#email>input {
+    padding-right: 18.5%;
+}
+
+.first-para {
+    margin-left: 40%;
+    padding: 5%;
+}
+
+.input {
+    margin-top: -30%;
+}
+
+.main>img {
+    margin-left: 44%;
+    margin-bottom: -4%;
+}
+
+h3 {
+    color: #1A73E8;
+    margin-top: -1%;
+    padding-bottom: 1%;
+    font-weight: lighter;
+}
+
+h4 {
+    color: #1A73E8;
+    display: inline-block;
+    font-weight: inherit;
+}
+
+button {
+    background-color: #1A73E8;
+    padding: 10px;
+    width: 8%;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin-left: 22%;
+    margin-bottom: -2px;
+}
+
+ul>li {
+    list-style: none;
+}
+
+h5 {
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: -2%;
+}
+
+ul>li>a {
+    text-decoration: none;
+    padding-right: 10%;
+    margin-bottom: 8%;
+    color: #838384;
+    float: right;
+}
+
+p {
+    font-size: small;
+}
+
+h5>a {
+    color: #302e2e;
+}
